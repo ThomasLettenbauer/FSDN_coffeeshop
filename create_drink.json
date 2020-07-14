@@ -1,0 +1,21 @@
+{
+    "id": -1,
+    "title": "",
+    "recipe": [
+        {
+            "name": "In1",
+            "color": "white",
+            "parts": 1
+        },
+        {
+            "name": "In2",
+            "color": "red",
+            "parts": 3
+        },
+        {
+            "name": "In3",
+            "color": "green",
+            "parts": 5
+        }
+    ]
+}
